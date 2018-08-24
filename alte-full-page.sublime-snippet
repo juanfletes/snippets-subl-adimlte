@@ -1,0 +1,23 @@
+<snippet>
+  <content><![CDATA[
+<section class="content-header">
+  <h1>TITLE <small>( SMALL )</small></h1>
+</section>
+<section class="content">
+  <div class="box box-primary box-height">
+    <div class="box-header with-border">
+      <div class="row nopadding">
+        HEADER
+      </div>
+    </div>
+    <div class="box-body">
+      <div id="GRID_ID"></div>
+    </div>
+  </div>
+</section>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>alte-full-page</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>

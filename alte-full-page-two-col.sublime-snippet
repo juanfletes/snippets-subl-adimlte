@@ -1,0 +1,35 @@
+<snippet>
+  <content><![CDATA[
+<section class="content-header">
+  <h1>TITLE</h1>
+</section>
+<section class="content">
+  <div class="row">
+    <div class="col-sm-6">
+      <div class="box box-primary box-height">
+        <div class="box-header with-border">
+          COL-SM-6
+        </div>
+        <div class="box-body">
+
+        </div>
+      </div>
+    </div>
+    <div class="col-sm-6 nopadding-left">
+      <div class="box box-primary box-height">
+        <div class="box-header with-border">
+          COL-SM-6
+        </div>
+        <div class="box-body">
+
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+]]></content>
+  <!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+  <tabTrigger>alte-full-page-two-col</tabTrigger>
+  <!-- Optional: Set a scope to limit where the snippet will trigger -->
+  <!-- <scope>source.python</scope> -->
+</snippet>
